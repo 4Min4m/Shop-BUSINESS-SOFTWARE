@@ -1,0 +1,124 @@
+D:\Amin\Program\DARSI\Term 3\C#\Main Project Shop\Project Shop\obj\Debug\ResolveAssemblyReference.cache
+D:\Amin\Program\DARSI\Term 3\C#\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form1.resources
+D:\Amin\Program\DARSI\Term 3\C#\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form2.resources
+D:\Amin\Program\DARSI\Term 3\C#\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form3.resources
+D:\Amin\Program\DARSI\Term 3\C#\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Properties.Resources.resources
+D:\Amin\Program\DARSI\Term 3\C#\Main Project Shop\Project Shop\obj\Debug\Project Shop.csproj.GenerateResource.Cache
+D:\Amin\Program\DARSI\Term 3\C#\Main Project Shop\Project Shop\bin\Debug\Project Shop.exe
+D:\Amin\Program\DARSI\Term 3\C#\Main Project Shop\Project Shop\bin\Debug\Project Shop.pdb
+D:\Amin\Program\DARSI\Term 3\C#\Main Project Shop\Project Shop\obj\Debug\Project Shop.exe
+D:\Amin\Program\DARSI\Term 3\C#\Main Project Shop\Project Shop\obj\Debug\Project Shop.pdb
+D:\Amin\Program\DARSI\Term 3\C#\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form4.resources
+D:\Amin\Program\DARSI\Term 3\C#\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form5.resources
+D:\Amin\Program\DARSI\Term 3\C#\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form6.resources
+D:\Amin\Program\DARSI\Term 3\C#\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form7.resources
+D:\Amin\Program\DARSI\Term 3\C#\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form8.resources
+D:\Amin\Program\DARSI\Term 3\C#\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form9.resources
+D:\Amin\Program\DARSI\Term 3\C#\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form10.resources
+D:\Amin\Program\DARSI\Term 3\C#\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form11.resources
+D:\Amin\Program\DARSI\Term 3\C#\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form12.resources
+D:\Amin\Program\DARSI\Term 3\C#\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form13.resources
+D:\Amin\Program\DARSI\Term 3\C#\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form14.resources
+F:\amini\Main Project Shop\Project Shop\obj\Debug\Project Shop.exe
+F:\amini\Main Project Shop\Project Shop\obj\Debug\Project Shop.pdb
+F:\amini\Main Project Shop\Project Shop\bin\Debug\Project Shop.exe
+F:\amini\Main Project Shop\Project Shop\bin\Debug\Project Shop.pdb
+F:\amini\Main Project Shop\Project Shop\obj\Debug\ResolveAssemblyReference.cache
+F:\amini\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form1.resources
+F:\amini\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form10.resources
+F:\amini\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form11.resources
+F:\amini\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form12.resources
+F:\amini\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form13.resources
+F:\amini\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form14.resources
+F:\amini\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form2.resources
+F:\amini\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form3.resources
+F:\amini\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form4.resources
+F:\amini\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form5.resources
+F:\amini\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form6.resources
+F:\amini\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form7.resources
+F:\amini\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form8.resources
+F:\amini\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form9.resources
+F:\amini\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Properties.Resources.resources
+F:\amini\Main Project Shop\Project Shop\obj\Debug\Project Shop.csproj.GenerateResource.Cache
+H:\New folder\Project Shop\obj\Debug\Project Shop.exe
+H:\New folder\Project Shop\obj\Debug\Project Shop.pdb
+E:\Main Project Shop\Project Shop\obj\Debug\Project Shop.exe
+E:\Main Project Shop\Project Shop\obj\Debug\Project Shop.pdb
+E:\Main Project Shop\Project Shop\bin\Debug\Project Shop.exe
+E:\Main Project Shop\Project Shop\bin\Debug\Project Shop.pdb
+E:\Main Project Shop\Project Shop\obj\Debug\ResolveAssemblyReference.cache
+E:\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form1.resources
+E:\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form10.resources
+E:\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form11.resources
+E:\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form12.resources
+E:\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form13.resources
+E:\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form14.resources
+E:\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form2.resources
+E:\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form3.resources
+E:\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form4.resources
+E:\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form5.resources
+E:\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form6.resources
+E:\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form7.resources
+E:\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form8.resources
+E:\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form9.resources
+E:\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Properties.Resources.resources
+E:\Main Project Shop\Project Shop\obj\Debug\ResGen.read.1.tlog
+E:\Main Project Shop\Project Shop\obj\Debug\ResGen.write.1.tlog
+D:\Amin\Program\DARSI\Projects\C#\Main Project Shop\Project Shop\obj\Debug\Project Shop.exe
+D:\Amin\Program\DARSI\Projects\C#\Main Project Shop\Project Shop\obj\Debug\Project Shop.pdb
+D:\Amin\Program\DARSI\Projects\C#\Main Project Shop\Project Shop\bin\Debug\Project Shop.exe
+D:\Amin\Program\DARSI\Projects\C#\Main Project Shop\Project Shop\bin\Debug\Project Shop.pdb
+D:\Amin\Program\DARSI\Projects\C#\Main Project Shop\Project Shop\obj\Debug\ResolveAssemblyReference.cache
+D:\Amin\Program\DARSI\Projects\C#\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form1.resources
+D:\Amin\Program\DARSI\Projects\C#\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form10.resources
+D:\Amin\Program\DARSI\Projects\C#\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form11.resources
+D:\Amin\Program\DARSI\Projects\C#\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form12.resources
+D:\Amin\Program\DARSI\Projects\C#\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form13.resources
+D:\Amin\Program\DARSI\Projects\C#\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form14.resources
+D:\Amin\Program\DARSI\Projects\C#\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form15.resources
+D:\Amin\Program\DARSI\Projects\C#\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form2.resources
+D:\Amin\Program\DARSI\Projects\C#\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form3.resources
+D:\Amin\Program\DARSI\Projects\C#\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form4.resources
+D:\Amin\Program\DARSI\Projects\C#\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form5.resources
+D:\Amin\Program\DARSI\Projects\C#\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form6.resources
+D:\Amin\Program\DARSI\Projects\C#\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form7.resources
+D:\Amin\Program\DARSI\Projects\C#\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form8.resources
+D:\Amin\Program\DARSI\Projects\C#\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form9.resources
+D:\Amin\Program\DARSI\Projects\C#\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Properties.Resources.resources
+D:\Amin\Program\DARSI\Projects\C#\Main Project Shop\Project Shop\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Amin\Program\DARSI\Projects\C#\Main Project Shop\Project Shop\obj\Debug\GenerateResource-ResGen.read.5.tlog
+D:\Amin\Program\DARSI\Projects\C#\Main Project Shop\Project Shop\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Amin\Program\DARSI\Projects\C#\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form16.resources
+I:\Proje\Main Project Shop\Project Shop\obj\Debug\Project Shop.exe
+I:\Proje\Main Project Shop\Project Shop\obj\Debug\Project Shop.pdb
+I:\Proje\Main Project Shop\Project Shop\bin\Debug\Project Shop.exe
+I:\Proje\Main Project Shop\Project Shop\bin\Debug\Project Shop.pdb
+I:\Proje\Main Project Shop\Project Shop\obj\Debug\ResolveAssemblyReference.cache
+I:\Proje\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form1.resources
+I:\Proje\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form10.resources
+I:\Proje\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form11.resources
+I:\Proje\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form12.resources
+I:\Proje\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form13.resources
+I:\Proje\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form14.resources
+I:\Proje\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form15.resources
+I:\Proje\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form16.resources
+I:\Proje\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form2.resources
+I:\Proje\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form3.resources
+I:\Proje\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form4.resources
+I:\Proje\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form5.resources
+I:\Proje\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form6.resources
+I:\Proje\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form7.resources
+I:\Proje\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form8.resources
+I:\Proje\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Form9.resources
+I:\Proje\Main Project Shop\Project Shop\obj\Debug\Project_Shop.Properties.Resources.resources
+I:\Proje\Main Project Shop\Project Shop\obj\Debug\GenerateResource-ResGen.read.1.tlog
+I:\Proje\Main Project Shop\Project Shop\obj\Debug\GenerateResource-ResGen.read.5.tlog
+I:\Proje\Main Project Shop\Project Shop\obj\Debug\ResGen.read.1.tlog
+I:\Proje\Main Project Shop\Project Shop\obj\Debug\GenerateResource-ResGen.write.1.tlog
+I:\Proje\Main Project Shop\Project Shop\obj\Debug\ResGen.write.1.tlog
+G:\Proje\Main Project Shop\Project Shop\obj\Debug\Project Shop.exe
+G:\Proje\Main Project Shop\Project Shop\obj\Debug\Project Shop.pdb
+D:\Amin\Program\DARSI\Projects\C#\Main Project Shop\Project Shop\obj\Debug\ResGen.read.1.tlog
+D:\Amin\Program\DARSI\Projects\C#\Main Project Shop\Project Shop\obj\Debug\ResGen.write.1.tlog
+D:\Program\DARSI\Projects\C#\Main Project Shop\Project Shop\obj\Debug\Project Shop.exe
+D:\Program\DARSI\Projects\C#\Main Project Shop\Project Shop\obj\Debug\Project Shop.pdb
