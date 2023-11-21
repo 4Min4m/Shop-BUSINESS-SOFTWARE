@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Project Shop">
+</Property><Property Name="Solution File" Value="E:\Main Project Shop\Project Shop\Project Shop.sln">
+</Property><Property Name="User Options File" Value="E:\Main Project Shop\Project Shop\Project Shop.suo">
+</Property><Property Name="Date" Value="Tuesday, February 28, 2012">
+</Property><Property Name="Time" Value="9:18 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Project Shop.sln" Description="File successfully backed up as E:\Main Project Shop\Project Shop\Backup\Project Shop.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Project Shop.suo" Description="File successfully backed up as E:\Main Project Shop\Project Shop\Backup\Project Shop.suo">
+</Event><Event ErrorLevel="0" Project="Project Shop" Source="Project Shop.csproj" Description="Project file successfully backed up as E:\Main Project Shop\Project Shop\Backup\Project Shop.csproj">
+</Event><Event ErrorLevel="0" Project="Project Shop" Source="Project Shop.csproj.user" Description="Project user file successfully backed up as E:\Main Project Shop\Project Shop\Backup\Project Shop.csproj.user">
+</Event><Event ErrorLevel="0" Project="Project Shop" Source="Form1.cs" Description="File successfully backed up as E:\Main Project Shop\Project Shop\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Project Shop" Source="Form1.Designer.cs" Description="File successfully backed up as E:\Main Project Shop\Project Shop\Backup\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Project Shop" Source="Form10.cs" Description="File successfully backed up as E:\Main Project Shop\Project Shop\Backup\Form10.cs">
+</Event><Event ErrorLevel="0" Project="Project Shop" Source="Form10.Designer.cs" Description="File successfully backed up as E:\Main Project Shop\Project Shop\Backup\Form10.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Project Shop" Source="Form11.cs" Description="File successfully backed up as E:\Main Project Shop\Project Shop\Backup\Form11.cs">
+</Event><Event ErrorLevel="0" Project="Project Shop" Source="Form11.Designer.cs" Description="File successfully backed up as E:\Main Project Shop\Project Shop\Backup\Form11.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Project Shop" Source="Form12.cs" Description="File successfully backed up as E:\Main Project Shop\Project Shop\Backup\Form12.cs">
+</Event><Event ErrorLevel="0" Project="Project Shop" Source="Form12.Designer.cs" Description="File successfully backed up as E:\Main Project Shop\Project Shop\Backup\Form12.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Project Shop" Source="Form13.cs" Description="File successfully backed up as E:\Main Project Shop\Project Shop\Backup\Form13.cs">
+</Event><Event ErrorLevel="0" Project="Project Shop" Source="Form13.Designer.cs" Description="File successfully backed up as E:\Main Project Shop\Project Shop\Backup\Form13.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Project Shop" Source="Form14.cs" Description="File successfully backed up as E:\Main Project Shop\Project Shop\Backup\Form14.cs">
+</Event><Event ErrorLevel="0" Project="Project Shop" Source="Form14.Designer.cs" Description="File successfully backed up as E:\Main Project Shop\Project Shop\Backup\Form14.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Project Shop" Source="Form2.cs" Description="File successfully backed up as E:\Main Project Shop\Project Shop\Backup\Form2.cs">
+</Event><Event ErrorLevel="0" Project="Project Shop" Source="Form2.Designer.cs" Description="File successfully backed up as E:\Main Project Shop\Project Shop\Backup\Form2.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Project Shop" Source="Form3.cs" Description="File successfully backed up as E:\Main Project Shop\Project Shop\Backup\Form3.cs">
+</Event><Event ErrorLevel="0" Project="Project Shop" Source="Form3.Designer.cs" Description="File successfully backed up as E:\Main Project Shop\Project Shop\Backup\Form3.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Project Shop" Source="Form4.cs" Description="File successfully backed up as E:\Main Project Shop\Project Shop\Backup\Form4.cs">
+</Event><Event ErrorLevel="0" Project="Project Shop" Source="Form4.Designer.cs" Description="File successfully backed up as E:\Main Project Shop\Project Shop\Backup\Form4.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Project Shop" Source="Form5.cs" Description="File successfully backed up as E:\Main Project Shop\Project Shop\Backup\Form5.cs">
+</Event><Event ErrorLevel="0" Project="Project Shop" Source="Form5.Designer.cs" Description="File successfully backed up as E:\Main Project Shop\Project Shop\Backup\Form5.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Project Shop" Source="Form6.cs" Description="File successfully backed up as E:\Main Project Shop\Project Shop\Backup\Form6.cs">
+</Event><Event ErrorLevel="0" Project="Project Shop" Source="Form6.Designer.cs" Description="File successfully backed up as E:\Main Project Shop\Project Shop\Backup\Form6.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Project Shop" Source="Form7.cs" Description="File successfully backed up as E:\Main Project Shop\Project Shop\Backup\Form7.cs">
+</Event><Event ErrorLevel="0" Project="Project Shop" Source="Form7.Designer.cs" Description="File successfully backed up as E:\Main Project Shop\Project Shop\Backup\Form7.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Project Shop" Source="Form8.cs" Description="File successfully backed up as E:\Main Project Shop\Project Shop\Backup\Form8.cs">
+</Event><Event ErrorLevel="0" Project="Project Shop" Source="Form8.Designer.cs" Description="File successfully backed up as E:\Main Project Shop\Project Shop\Backup\Form8.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Project Shop" Source="Form9.cs" Description="File successfully backed up as E:\Main Project Shop\Project Shop\Backup\Form9.cs">
+</Event><Event ErrorLevel="0" Project="Project Shop" Source="Form9.Designer.cs" Description="File successfully backed up as E:\Main Project Shop\Project Shop\Backup\Form9.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Project Shop" Source="Program.cs" Description="File successfully backed up as E:\Main Project Shop\Project Shop\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="Project Shop" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as E:\Main Project Shop\Project Shop\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Project Shop" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as E:\Main Project Shop\Project Shop\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Project Shop" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as E:\Main Project Shop\Project Shop\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Project Shop" Source="Properties\Settings.settings" Description="File successfully backed up as E:\Main Project Shop\Project Shop\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Project Shop" Source="Form1.resx" Description="File successfully backed up as E:\Main Project Shop\Project Shop\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Project Shop" Source="Form10.resx" Description="File successfully backed up as E:\Main Project Shop\Project Shop\Backup\Form10.resx">
+</Event><Event ErrorLevel="0" Project="Project Shop" Source="Form11.resx" Description="File successfully backed up as E:\Main Project Shop\Project Shop\Backup\Form11.resx">
+</Event><Event ErrorLevel="0" Project="Project Shop" Source="Form12.resx" Description="File successfully backed up as E:\Main Project Shop\Project Shop\Backup\Form12.resx">
+</Event><Event ErrorLevel="0" Project="Project Shop" Source="Form13.resx" Description="File successfully backed up as E:\Main Project Shop\Project Shop\Backup\Form13.resx">
+</Event><Event ErrorLevel="0" Project="Project Shop" Source="Form14.resx" Description="File successfully backed up as E:\Main Project Shop\Project Shop\Backup\Form14.resx">
+</Event><Event ErrorLevel="0" Project="Project Shop" Source="Form2.resx" Description="File successfully backed up as E:\Main Project Shop\Project Shop\Backup\Form2.resx">
+</Event><Event ErrorLevel="0" Project="Project Shop" Source="Form3.resx" Description="File successfully backed up as E:\Main Project Shop\Project Shop\Backup\Form3.resx">
+</Event><Event ErrorLevel="0" Project="Project Shop" Source="Form4.resx" Description="File successfully backed up as E:\Main Project Shop\Project Shop\Backup\Form4.resx">
+</Event><Event ErrorLevel="0" Project="Project Shop" Source="Form5.resx" Description="File successfully backed up as E:\Main Project Shop\Project Shop\Backup\Form5.resx">
+</Event><Event ErrorLevel="0" Project="Project Shop" Source="Form6.resx" Description="File successfully backed up as E:\Main Project Shop\Project Shop\Backup\Form6.resx">
+</Event><Event ErrorLevel="0" Project="Project Shop" Source="Form7.resx" Description="File successfully backed up as E:\Main Project Shop\Project Shop\Backup\Form7.resx">
+</Event><Event ErrorLevel="0" Project="Project Shop" Source="Form8.resx" Description="File successfully backed up as E:\Main Project Shop\Project Shop\Backup\Form8.resx">
+</Event><Event ErrorLevel="0" Project="Project Shop" Source="Form9.resx" Description="File successfully backed up as E:\Main Project Shop\Project Shop\Backup\Form9.resx">
+</Event><Event ErrorLevel="0" Project="Project Shop" Source="Properties\Resources.resx" Description="File successfully backed up as E:\Main Project Shop\Project Shop\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Project Shop" Source="Project Shop.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Project Shop" Source="Project Shop.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Project Shop.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Project Shop.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Project Shop" Source="Project Shop.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
